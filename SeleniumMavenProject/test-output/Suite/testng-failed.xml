@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="browserName" value="chrome"/>
+  <parameter name="TestcaseNo" value="1"/>
+  <listeners>
+    <listener class-name="com.mobileUtilities_Android.Listener_Android"/>
+  </listeners>
+  <test name="Test">
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="TestcaseNo" value="1"/>
+    <classes>
+      <class name="com.testScripts.IndegeneTestScripts1"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="TestcaseNo" value="1"/>
+    <classes>
+      <class name="com.testScripts.IndegeneTestScripts1">
+        <methods>
+          <include name="BeforeClass"/>
+          <include name="f" invocation-numbers="0"/>
+          <include name="setUpSuiteDetails"/>
+          <include name="afterSuite"/>
+          <include name="afterClass"/>
+          <include name="captureDesc"/>
+        </methods>
+      </class> <!-- com.testScripts.IndegeneTestScripts1 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

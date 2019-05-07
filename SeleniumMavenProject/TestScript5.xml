@@ -1,0 +1,12 @@
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.mobileUtilities_iOS.Listener_iOS"></listener>
+	</listeners>
+	<test name="Test">
+		<parameter name="browserName" value="safari"></parameter>
+		<classes>
+			<parameter name="TestcaseNo" value="5"></parameter>
+			<class name="com.testScripts.IndegeneTestScripts5" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,939 @@
+2018-06-12 12:09:45 INFO  BaseClass_Web:283 - Element is available :Username
+2018-06-12 12:09:48 INFO  BaseClass_Web:283 - Element is available :Password
+2018-06-12 12:09:51 INFO  BaseClass_Web:283 - Element is available :Login
+2018-06-12 12:09:54 INFO  BaseClass_Web:283 - Element is available :ForgotPassword
+2018-06-12 12:14:05 FATAL BaseClass_Web:55 - Unable to validate validateAccountsScreen_TC4java.io.IOException: unexpected end of stream on Connection{127.0.0.1:4723, proxy=DIRECT hostAddress=/127.0.0.1:4723 cipherSuite=none protocol=http/1.1}
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-12 14:56:02 FATAL BaseClass_Web:288 - Element is not available :null
+2018-06-12 14:56:02 FATAL BaseClass_Web:288 - Element is not available :null
+2018-06-12 14:56:02 FATAL BaseClass_Web:288 - Element is not available :null
+2018-06-12 14:56:02 FATAL BaseClass_Web:288 - Element is not available :null
+2018-06-12 14:57:46 INFO  BaseClass_Web:286 - Element is available :Username
+2018-06-12 14:57:49 INFO  BaseClass_Web:286 - Element is available :Password
+2018-06-12 14:57:52 INFO  BaseClass_Web:286 - Element is available :Login
+2018-06-12 14:57:55 INFO  BaseClass_Web:286 - Element is available :ForgotPassword
+2018-06-12 14:58:18 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-12 14:58:37 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-12 14:58:50 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-12 14:59:03 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-12 14:59:07 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-12 15:01:00 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-12 15:01:06 INFO  BaseClass_Web:286 - Element is available :Accounts
+2018-06-12 15:01:11 INFO  BaseClass_Web:286 - Element is available :Calender 
+2018-06-12 15:01:16 INFO  BaseClass_Web:286 - Element is available :Call Plans
+2018-06-12 15:01:25 INFO  BaseClass_Web:286 - Element is available :Contacts
+2018-06-12 15:01:31 INFO  BaseClass_Web:286 - Element is available :Presentations
+2018-06-12 15:01:36 INFO  BaseClass_Web:286 - Element is available :Time Off
+2018-06-12 15:01:41 INFO  BaseClass_Web:286 - Element is available :Settings
+2018-06-12 15:01:46 INFO  BaseClass_Web:286 - Element is available :Presenter Status
+2018-06-12 15:01:51 INFO  BaseClass_Web:286 - Element is available :Presenter Name
+2018-06-12 15:01:56 INFO  BaseClass_Web:286 - Element is available : Presenter position
+2018-06-12 15:02:01 INFO  BaseClass_Web:286 - Element is available :Presenter last Sync Time
+2018-06-12 15:02:06 INFO  BaseClass_Web:286 - Element is available :Logout Option
+2018-06-12 15:04:54 FATAL BaseClass_Web:? - Unable to validate validateAccountsScreen_TC4A session is either terminated or not started
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: ec1964c8-86b2-4b58-9c3d-148cc40bf5a1
+2018-06-12 15:06:19 INFO  BaseClass_Web:286 - Element is available :Username
+2018-06-12 15:06:22 INFO  BaseClass_Web:286 - Element is available :Password
+2018-06-12 15:06:25 INFO  BaseClass_Web:286 - Element is available :Login
+2018-06-12 15:06:28 INFO  BaseClass_Web:286 - Element is available :ForgotPassword
+2018-06-12 15:06:49 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-12 15:07:08 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-12 15:07:21 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-12 15:07:33 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-12 15:07:38 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-12 15:11:10 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-12 15:11:27 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Accounts']
+2018-06-12 15:17:55 INFO  BaseClass_Web:286 - Element is available :Username
+2018-06-12 15:17:58 INFO  BaseClass_Web:286 - Element is available :Password
+2018-06-12 15:18:01 INFO  BaseClass_Web:286 - Element is available :Login
+2018-06-12 15:18:04 INFO  BaseClass_Web:286 - Element is available :ForgotPassword
+2018-06-12 15:18:25 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-12 15:18:44 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-12 15:18:56 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-12 15:19:09 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-12 15:19:13 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-12 15:22:41 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-12 15:22:47 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Accounts']
+2018-06-12 15:22:55 INFO  BaseClass_Web:286 - Element is available :Accounts Header
+2018-06-12 15:24:08 FATAL BaseClass_Web:288 - Element is not available :A session is either terminated or not started
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 62fe2b22-1f4c-4974-9ca9-1c78ebb8fd3d
+*** Element info: {Using=xpath, value=//XCUIElementTypeSearchField[@label='Search']}
+2018-06-12 15:28:14 INFO  BaseClass_Web:287 - Element is available :Username
+2018-06-12 15:28:17 INFO  BaseClass_Web:287 - Element is available :Password
+2018-06-12 15:28:20 INFO  BaseClass_Web:287 - Element is available :Login
+2018-06-12 15:28:23 INFO  BaseClass_Web:287 - Element is available :ForgotPassword
+2018-06-12 15:28:44 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-12 15:29:03 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-12 15:29:15 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-12 15:29:28 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-12 15:29:32 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-12 15:33:45 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-12 15:33:57 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Accounts']
+2018-06-12 15:34:07 INFO  BaseClass_Web:287 - Element is available :Accounts Header
+2018-06-12 15:34:20 INFO  BaseClass_Web:287 - Element is available :Search Field In Account Screen
+2018-06-12 15:41:58 INFO  BaseClass_Web:287 - Element is available :Username
+2018-06-12 15:42:02 INFO  BaseClass_Web:287 - Element is available :Password
+2018-06-12 15:42:05 INFO  BaseClass_Web:287 - Element is available :Login
+2018-06-12 15:42:08 INFO  BaseClass_Web:287 - Element is available :ForgotPassword
+2018-06-12 15:42:28 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-12 15:42:47 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-12 15:43:00 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-12 16:20:40 FATAL BaseClass_Web:52 - Unable to open the URLnull
+2018-06-12 17:13:07 INFO  BaseClass_Web:287 - Element is available :Username
+2018-06-12 17:13:10 INFO  BaseClass_Web:287 - Element is available :Password
+2018-06-12 17:13:13 INFO  BaseClass_Web:287 - Element is available :Login
+2018-06-12 17:13:16 INFO  BaseClass_Web:287 - Element is available :ForgotPassword
+2018-06-12 17:13:37 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-12 17:13:56 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-12 17:14:09 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-12 17:14:21 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-12 17:14:25 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-12 17:16:17 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-12 17:16:49 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Accounts']
+2018-06-12 17:17:00 INFO  BaseClass_Web:287 - Element is available :Accounts Header
+2018-06-12 17:18:05 FATAL BaseClass_Web:289 - Element is not available :A session is either terminated or not started
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: a5090a0f-af3b-4e2b-a0bf-4742d0bf97fa
+*** Element info: {Using=xpath, value=//XCUIElementTypeSearchField[@label='Search']}
+2018-06-12 17:23:23 INFO  BaseClass_Web:287 - Element is available :Username
+2018-06-12 17:23:26 INFO  BaseClass_Web:287 - Element is available :Password
+2018-06-12 17:23:30 INFO  BaseClass_Web:287 - Element is available :Login
+2018-06-12 17:23:33 INFO  BaseClass_Web:287 - Element is available :ForgotPassword
+2018-06-12 17:23:53 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-12 17:24:12 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-12 17:24:25 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-12 17:24:37 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-12 17:24:41 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-12 17:25:15 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-12 17:25:59 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Accounts']
+2018-06-12 17:26:07 INFO  BaseClass_Web:287 - Element is available :Accounts Header
+2018-06-12 17:26:13 INFO  BaseClass_Web:287 - Element is available :Search Field In Account Screen
+2018-06-12 17:31:45 INFO  BaseClass_Web:292 - Element is available :Username
+2018-06-12 17:31:48 INFO  BaseClass_Web:292 - Element is available :Password
+2018-06-12 17:31:51 INFO  BaseClass_Web:292 - Element is available :Login
+2018-06-12 17:31:54 INFO  BaseClass_Web:292 - Element is available :ForgotPassword
+2018-06-12 17:32:15 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-12 17:32:34 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-12 17:32:47 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-12 17:32:59 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-12 17:33:04 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-12 17:34:19 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-12 17:34:26 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Accounts']
+2018-06-12 17:34:33 INFO  BaseClass_Web:292 - Element is available :Accounts Header
+2018-06-12 17:34:39 INFO  BaseClass_Web:292 - Element is available :Search Field In Account Screen
+2018-06-12 17:41:28 INFO  BaseClass_Web:292 - Element is available :Username
+2018-06-12 17:41:31 INFO  BaseClass_Web:292 - Element is available :Password
+2018-06-12 17:41:34 INFO  BaseClass_Web:292 - Element is available :Login
+2018-06-12 17:41:37 INFO  BaseClass_Web:292 - Element is available :ForgotPassword
+2018-06-12 17:41:58 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-12 17:42:16 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-12 17:42:29 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-12 17:42:42 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-12 17:42:46 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-12 17:44:03 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-12 17:44:09 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Accounts']
+2018-06-12 17:44:16 INFO  BaseClass_Web:292 - Element is available :Accounts Header
+2018-06-12 17:44:23 INFO  BaseClass_Web:292 - Element is available :Search Field In Account Screen
+2018-06-12 17:54:16 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-12 17:54:20 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-12 17:54:23 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-12 17:54:26 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-12 17:54:47 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-12 17:55:05 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-12 17:55:18 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-12 17:55:31 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-12 17:55:35 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-12 17:56:05 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-12 17:57:33 FATAL BaseClass_Web:55 - Unable to validate validateAccountsScreen_TC4null
+2018-06-12 17:58:58 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-12 17:59:01 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-12 17:59:04 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-12 17:59:07 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-12 17:59:28 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-12 17:59:46 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-12 18:00:00 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-12 18:00:12 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-12 18:00:16 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-12 18:00:51 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-12 18:01:53 FATAL BaseClass_Web:55 - Unable to validate validateAccountsScreen_TC4A session is either terminated or not started
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 835fa94e-3498-4c7e-ab9d-53131bdc6fbe
+2018-06-12 18:15:55 FATAL BaseClass_Web:300 - Element is not available :null
+2018-06-12 18:15:55 FATAL BaseClass_Web:300 - Element is not available :null
+2018-06-12 18:15:55 FATAL BaseClass_Web:300 - Element is not available :null
+2018-06-12 18:15:55 FATAL BaseClass_Web:300 - Element is not available :null
+2018-06-12 18:15:56 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-12 18:18:19 FATAL BaseClass_Web:300 - Element is not available :null
+2018-06-12 18:18:19 FATAL BaseClass_Web:300 - Element is not available :null
+2018-06-12 18:18:19 FATAL BaseClass_Web:300 - Element is not available :null
+2018-06-12 18:18:19 FATAL BaseClass_Web:300 - Element is not available :null
+2018-06-12 18:18:20 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-12 18:20:36 FATAL BaseClass_Web:300 - Element is not available :null
+2018-06-12 18:20:36 FATAL BaseClass_Web:300 - Element is not available :null
+2018-06-12 18:20:36 FATAL BaseClass_Web:300 - Element is not available :null
+2018-06-12 18:20:36 FATAL BaseClass_Web:300 - Element is not available :null
+2018-06-12 18:20:37 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-12 18:40:10 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-13 11:01:32 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-13 11:09:29 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-13 11:17:42 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-13 11:17:45 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-13 11:17:48 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-13 11:17:52 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-13 11:18:14 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-13 11:18:33 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-13 11:18:46 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-13 11:18:58 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-13 11:19:03 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-13 11:20:10 FATAL BaseClass_Web:38 - Unable to Validate validateToolsDrawerMenuOptions_TC3An unknown server-side error occurred while processing the command. Original error: New Command Timeout of 60 seconds expired. Try customizing the timeout using the 'newCommandTimeout' desired capability
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 89e53ec0-0013-4b93-9aed-6469b82de2a6
+*** Element info: {Using=xpath, value=(//XCUIElementTypeButton)[1]}
+2018-06-13 11:22:43 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-13 11:22:46 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-13 11:22:49 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-13 11:22:52 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-13 11:24:37 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-13 11:24:40 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-13 11:24:43 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-13 11:24:46 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-13 11:25:09 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-13 11:25:27 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-13 11:25:40 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-13 11:25:55 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-13 11:25:59 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-13 11:27:15 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-13 11:27:20 INFO  BaseClass_Web:298 - Element is available :Accounts
+2018-06-13 11:27:25 INFO  BaseClass_Web:298 - Element is available :Calender 
+2018-06-13 11:27:30 INFO  BaseClass_Web:298 - Element is available :Call Plans
+2018-06-13 11:27:35 INFO  BaseClass_Web:298 - Element is available :Contacts
+2018-06-13 11:27:40 INFO  BaseClass_Web:298 - Element is available :Presentations
+2018-06-13 11:27:45 INFO  BaseClass_Web:298 - Element is available :Time Off
+2018-06-13 11:27:50 INFO  BaseClass_Web:298 - Element is available :Settings
+2018-06-13 11:27:55 INFO  BaseClass_Web:298 - Element is available :Presenter Status
+2018-06-13 11:28:00 INFO  BaseClass_Web:298 - Element is available :Presenter Name
+2018-06-13 11:28:05 INFO  BaseClass_Web:298 - Element is available : Presenter position
+2018-06-13 11:28:10 INFO  BaseClass_Web:298 - Element is available :Presenter last Sync Time
+2018-06-13 11:28:15 INFO  BaseClass_Web:298 - Element is available :Logout Option
+2018-06-13 11:28:22 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-13 11:30:54 FATAL BaseClass_Web:55 - Unable to validate validateAccountsScreen_TC4An unknown server-side error occurred while processing the command. Original error: New Command Timeout of 60 seconds expired. Try customizing the timeout using the 'newCommandTimeout' desired capability
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 7accee9b-ba71-4e15-9c38-d43e6d79a3f7
+*** Element info: {Using=xpath, value=(//XCUIElementTypeButton)[1]}
+2018-06-13 11:33:08 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-13 11:33:12 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-13 11:33:15 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-13 11:33:18 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-13 11:33:39 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-13 11:33:58 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-13 11:34:10 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-13 11:34:23 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-13 11:34:27 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-13 11:37:17 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-13 11:37:23 INFO  BaseClass_Web:298 - Element is available :Accounts
+2018-06-13 11:37:28 INFO  BaseClass_Web:298 - Element is available :Calender 
+2018-06-13 11:37:33 INFO  BaseClass_Web:298 - Element is available :Call Plans
+2018-06-13 11:37:38 INFO  BaseClass_Web:298 - Element is available :Contacts
+2018-06-13 11:37:43 INFO  BaseClass_Web:298 - Element is available :Presentations
+2018-06-13 11:37:48 INFO  BaseClass_Web:298 - Element is available :Time Off
+2018-06-13 11:37:52 INFO  BaseClass_Web:298 - Element is available :Settings
+2018-06-13 11:37:57 INFO  BaseClass_Web:298 - Element is available :Presenter Status
+2018-06-13 11:38:02 INFO  BaseClass_Web:298 - Element is available :Presenter Name
+2018-06-13 11:38:07 INFO  BaseClass_Web:298 - Element is available : Presenter position
+2018-06-13 11:38:12 INFO  BaseClass_Web:298 - Element is available :Presenter last Sync Time
+2018-06-13 11:38:17 INFO  BaseClass_Web:298 - Element is available :Logout Option
+2018-06-13 11:38:24 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-13 11:41:35 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-13 11:41:41 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Accounts']
+2018-06-13 11:41:49 INFO  BaseClass_Web:298 - Element is available :Accounts Header
+2018-06-13 11:41:55 INFO  BaseClass_Web:298 - Element is available :Search Field In Account Screen
+2018-06-13 11:42:01 INFO  BaseClass_Web:298 - Element is available :Back Button
+2018-06-13 11:42:07 INFO  BaseClass_Web:298 - Element is available :Nothing Selected Text
+2018-06-13 11:42:15 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-13 11:45:26 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-13 11:45:32 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Calendar']
+2018-06-13 11:45:39 FATAL BaseClass_Web:75 - Unable to validate validateCalendarScreen_TC5An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: da737c18-d1bb-4193-a13a-0e2f729fae09
+*** Element info: {Using=xpath, value=//XCUIElementTypeSearchField[@label='Search']}
+2018-06-13 11:45:46 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-13 11:48:57 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-13 11:49:03 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Contacts']
+2018-06-13 11:49:11 INFO  BaseClass_Web:298 - Element is available :Search Field In Contacts Screen
+2018-06-13 11:49:17 INFO  BaseClass_Web:298 - Element is available :Back Button
+2018-06-13 11:49:23 INFO  BaseClass_Web:298 - Element is available :Nothing Contact Button
+2018-06-13 11:49:29 INFO  BaseClass_Web:298 - Element is available :nothing Selected Text
+2018-06-13 11:49:37 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-13 11:52:49 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-13 11:52:56 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Presentations']
+2018-06-13 11:53:07 INFO  BaseClass_Web:298 - Element is available :Search Field In Presentations Screen
+2018-06-13 11:53:14 INFO  BaseClass_Web:298 - Element is available :Back Button
+2018-06-13 11:53:21 INFO  BaseClass_Web:298 - Element is available :Select Presentation Button
+2018-06-13 11:53:29 INFO  BaseClass_Web:298 - Element is available :nothing Selected Text
+2018-06-13 11:53:36 INFO  BaseClass_Web:298 - Element is available :Title Presentation 
+2018-06-13 11:53:43 INFO  BaseClass_Web:298 - Element is available :DropDown in presentations
+2018-06-13 11:53:51 INFO  BaseClass_Web:298 - Element is available :Change View Button
+2018-06-13 11:54:00 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-13 11:57:12 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-13 11:57:18 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Settings']
+2018-06-13 11:57:27 INFO  BaseClass_Web:298 - Element is available :Calendar 
+2018-06-13 11:57:36 INFO  BaseClass_Web:298 - Element is available :Remote meeting
+2018-06-13 11:57:45 INFO  BaseClass_Web:298 - Element is available :Me
+2018-06-13 11:57:54 INFO  BaseClass_Web:298 - Element is available :Language
+2018-06-13 11:58:03 INFO  BaseClass_Web:298 - Element is available :Position
+2018-06-13 11:58:12 INFO  BaseClass_Web:298 - Element is available :Reset password
+2018-06-13 11:58:21 INFO  BaseClass_Web:298 - Element is available :Storage
+2018-06-13 11:58:31 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-13 12:01:44 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-13 12:01:50 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Contacts']
+2018-06-13 12:02:08 INFO  BaseClass_Web:197 - Entered the value :Search Field In Account Screen in the field :By.xpath: //XCUIElementTypeSearchField[@label='Search']
+2018-06-13 12:02:37 INFO  BaseClass_Web:197 - Entered the value : in the field :By.xpath: //XCUIElementTypeSearchField[@label='Search']
+2018-06-13 12:02:53 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Nageswara Kella']
+2018-06-13 12:03:22 INFO  BaseClass_Web:298 - Element is available :Info tab In Contacts Screen
+2018-06-13 12:03:41 INFO  BaseClass_Web:298 - Element is available :Profile tab In Contacts Screen
+2018-06-13 12:04:01 INFO  BaseClass_Web:298 - Element is available :TimeLine Tab In Contacts Screen
+2018-06-13 12:04:20 INFO  BaseClass_Web:298 - Element is available :Consents Tab In Contacts Screen
+2018-06-13 12:04:40 INFO  BaseClass_Web:298 - Element is available :Title Field In Contacts Screen
+2018-06-13 12:05:00 INFO  BaseClass_Web:298 - Element is available :firstName In Contacts Screen
+2018-06-13 12:05:19 INFO  BaseClass_Web:298 - Element is available :lastname In Contacts Screen
+2018-06-13 12:05:38 INFO  BaseClass_Web:298 - Element is available :primaryEmail In Contacts Screen
+2018-06-13 12:05:58 INFO  BaseClass_Web:298 - Element is available :otherEmail In Contacts Screen
+2018-06-13 12:06:17 INFO  BaseClass_Web:298 - Element is available :businessPhone In Contacts Screen
+2018-06-13 12:06:36 INFO  BaseClass_Web:298 - Element is available :mobilePhone In Contacts Screen
+2018-06-13 12:06:56 INFO  BaseClass_Web:298 - Element is available :preferredLanguage In Contacts Screen
+2018-06-13 12:07:15 INFO  BaseClass_Web:298 - Element is available :primarySpeciality In Contacts Screen
+2018-06-13 12:07:35 INFO  BaseClass_Web:298 - Element is available :speaker In Contacts Screen
+2018-06-13 12:07:54 INFO  BaseClass_Web:298 - Element is available :kolContact In Contacts Screen
+2018-06-13 12:08:14 INFO  BaseClass_Web:298 - Element is available :addresses In Contacts Screen
+2018-06-13 12:51:40 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-13 12:51:43 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-13 12:51:46 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-13 12:51:50 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-13 12:52:13 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-13 12:52:32 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-13 12:52:45 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-13 12:52:50 FATAL BaseClass_Web:42 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-13 12:52:55 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-13 12:52:59 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-13 12:53:05 FATAL BaseClass_Web:39 - Unable to Validate validateToolsDrawerMenuOptions_TC3java.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: driver.version: IOSDriver
+2018-06-13 12:54:11 FATAL BaseClass_Web:57 - Unable to validate validateAccountsScreen_TC4An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 36281cd3-4487-44da-89bb-06a985ffefc2
+*** Element info: {Using=xpath, value=//XCUIElementTypeButton[@label='Back']}
+2018-06-13 12:55:43 FATAL BaseClass_Web:78 - Unable to validate validateCalendarScreen_TC5An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 36281cd3-4487-44da-89bb-06a985ffefc2
+*** Element info: {Using=xpath, value=//XCUIElementTypeButton[@label='Back']}
+2018-06-13 12:56:02 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-13 12:56:23 FATAL BaseClass_Web:96 - Unable to validate validateContactScreen_TC6java.io.IOException: unexpected end of stream on Connection{127.0.0.1:4723, proxy=DIRECT hostAddress=/127.0.0.1:4723 cipherSuite=none protocol=http/1.1}
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: driver.version: IOSDriver
+2018-06-13 12:59:21 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-13 13:05:36 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-13 13:05:40 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-13 13:05:45 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-13 13:06:32 FATAL BaseClass_Web:27 - Unable to open the URLAn element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 4d6abb76-893f-4b29-9636-b42c59540c38
+*** Element info: {Using=xpath, value=//XCUIElementTypeButton[@label='Forgot Password?']}
+2018-06-13 13:07:59 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-13 13:08:02 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-13 13:08:06 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-13 13:08:09 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-13 13:08:30 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-13 13:08:48 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-13 13:09:01 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-13 13:09:07 FATAL BaseClass_Web:42 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-13 13:09:12 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-13 13:09:16 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-13 13:11:09 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-13 13:11:15 INFO  BaseClass_Web:298 - Element is available :Accounts
+2018-06-13 13:11:20 INFO  BaseClass_Web:298 - Element is available :Calender 
+2018-06-13 13:11:25 INFO  BaseClass_Web:298 - Element is available :Call Plans
+2018-06-13 13:11:30 INFO  BaseClass_Web:298 - Element is available :Contacts
+2018-06-13 13:11:35 INFO  BaseClass_Web:298 - Element is available :Presentations
+2018-06-13 13:11:40 INFO  BaseClass_Web:298 - Element is available :Time Off
+2018-06-13 13:11:45 INFO  BaseClass_Web:298 - Element is available :Settings
+2018-06-13 13:11:50 INFO  BaseClass_Web:298 - Element is available :Presenter Status
+2018-06-13 13:11:55 INFO  BaseClass_Web:298 - Element is available :Presenter Name
+2018-06-13 13:12:00 INFO  BaseClass_Web:298 - Element is available : Presenter position
+2018-06-13 13:12:05 INFO  BaseClass_Web:298 - Element is available :Presenter last Sync Time
+2018-06-13 13:12:10 INFO  BaseClass_Web:298 - Element is available :Logout Option
+2018-06-13 13:12:17 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-13 13:13:56 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-13 13:14:02 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Accounts']
+2018-06-13 13:14:10 INFO  BaseClass_Web:298 - Element is available :Accounts Header
+2018-06-13 13:14:16 INFO  BaseClass_Web:298 - Element is available :Search Field In Account Screen
+2018-06-13 13:14:22 INFO  BaseClass_Web:298 - Element is available :Back Button
+2018-06-13 13:14:28 INFO  BaseClass_Web:298 - Element is available :Nothing Selected Text
+2018-06-13 13:14:36 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-13 13:16:14 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-13 13:16:21 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Calendar']
+2018-06-13 13:16:28 FATAL BaseClass_Web:78 - Unable to validate validateCalendarScreen_TC5An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 5b0b5a81-5cdb-40f2-8506-6151a1dc9b3b
+*** Element info: {Using=xpath, value=//XCUIElementTypeSearchField[@label='Search']}
+2018-06-13 13:16:36 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-13 13:18:15 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-13 13:18:21 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Contacts']
+2018-06-13 13:18:29 INFO  BaseClass_Web:298 - Element is available :Search Field In Contacts Screen
+2018-06-13 13:18:35 INFO  BaseClass_Web:298 - Element is available :Back Button
+2018-06-13 13:18:41 INFO  BaseClass_Web:298 - Element is available :Nothing Contact Button
+2018-06-13 13:18:47 INFO  BaseClass_Web:298 - Element is available :nothing Selected Text
+2018-06-13 13:18:55 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-13 13:20:33 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-13 13:20:40 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Presentations']
+2018-06-13 13:20:50 INFO  BaseClass_Web:298 - Element is available :Search Field In Presentations Screen
+2018-06-13 13:20:58 INFO  BaseClass_Web:298 - Element is available :Back Button
+2018-06-13 13:21:05 INFO  BaseClass_Web:298 - Element is available :Select Presentation Button
+2018-06-13 13:21:12 INFO  BaseClass_Web:298 - Element is available :nothing Selected Text
+2018-06-13 13:21:20 INFO  BaseClass_Web:298 - Element is available :Title Presentation 
+2018-06-13 13:21:27 INFO  BaseClass_Web:298 - Element is available :DropDown in presentations
+2018-06-13 13:21:35 INFO  BaseClass_Web:298 - Element is available :Change View Button
+2018-06-13 13:21:44 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-13 13:23:23 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-13 13:23:29 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Settings']
+2018-06-13 13:23:38 INFO  BaseClass_Web:298 - Element is available :Calendar 
+2018-06-13 13:23:47 INFO  BaseClass_Web:298 - Element is available :Remote meeting
+2018-06-13 13:23:56 INFO  BaseClass_Web:298 - Element is available :Me
+2018-06-13 13:24:05 INFO  BaseClass_Web:298 - Element is available :Language
+2018-06-13 13:24:14 INFO  BaseClass_Web:298 - Element is available :Position
+2018-06-13 13:24:23 INFO  BaseClass_Web:298 - Element is available :Reset password
+2018-06-13 13:24:32 INFO  BaseClass_Web:298 - Element is available :Storage
+2018-06-13 13:24:42 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-13 13:26:21 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-13 13:26:28 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Contacts']
+2018-06-13 13:26:36 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Nageswara Kella']
+2018-06-13 13:26:56 INFO  BaseClass_Web:298 - Element is available :Info tab In Contacts Screen
+2018-06-13 13:27:14 INFO  BaseClass_Web:298 - Element is available :Profile tab In Contacts Screen
+2018-06-13 13:27:33 INFO  BaseClass_Web:298 - Element is available :TimeLine Tab In Contacts Screen
+2018-06-13 13:27:52 INFO  BaseClass_Web:298 - Element is available :Consents Tab In Contacts Screen
+2018-06-13 13:28:11 INFO  BaseClass_Web:298 - Element is available :Title Field In Contacts Screen
+2018-06-13 13:28:30 INFO  BaseClass_Web:298 - Element is available :firstName In Contacts Screen
+2018-06-13 13:28:49 INFO  BaseClass_Web:298 - Element is available :lastname In Contacts Screen
+2018-06-13 13:29:08 INFO  BaseClass_Web:298 - Element is available :primaryEmail In Contacts Screen
+2018-06-13 13:29:27 INFO  BaseClass_Web:298 - Element is available :otherEmail In Contacts Screen
+2018-06-13 13:29:46 INFO  BaseClass_Web:298 - Element is available :businessPhone In Contacts Screen
+2018-06-13 13:30:05 INFO  BaseClass_Web:298 - Element is available :mobilePhone In Contacts Screen
+2018-06-13 13:30:23 INFO  BaseClass_Web:298 - Element is available :preferredLanguage In Contacts Screen
+2018-06-13 13:30:42 INFO  BaseClass_Web:298 - Element is available :primarySpeciality In Contacts Screen
+2018-06-13 13:31:01 INFO  BaseClass_Web:298 - Element is available :speaker In Contacts Screen
+2018-06-13 13:31:19 INFO  BaseClass_Web:298 - Element is available :kolContact In Contacts Screen
+2018-06-13 13:31:38 INFO  BaseClass_Web:298 - Element is available :addresses In Contacts Screen
+2018-06-15 11:59:47 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-15 12:05:50 FATAL BaseClass_Web:27 - Unable to open the URLAn element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 6c40ff82-4d6c-43e7-bdde-78c99ca3423c
+*** Element info: {Using=xpath, value=//XCUIElementTypeTextField}
+2018-06-15 12:06:28 FATAL BaseClass_Web:42 - Unable to open the URLnull
+2018-06-15 12:06:33 FATAL BaseClass_Web:53 - Unable to open the URLAn element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 6c40ff82-4d6c-43e7-bdde-78c99ca3423c
+*** Element info: {Using=xpath, value=//XCUIElementTypeStaticText[@label='Indegene - QA']}
+2018-06-15 12:10:09 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-15 12:10:12 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-15 12:10:15 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-15 12:10:18 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-15 12:10:45 FATAL BaseClass_Web:42 - Unable to open the URLnull
+2018-06-15 12:12:18 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-15 12:12:21 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-15 12:12:24 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-15 12:12:26 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-15 12:12:45 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-15 12:13:02 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-15 12:13:13 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-15 12:13:18 FATAL BaseClass_Web:42 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-15 12:13:22 FATAL BaseClass_Web:53 - Unable to open the URLAn element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 786b54db-47da-425b-b4c0-43f214f10bca
+*** Element info: {Using=xpath, value=//XCUIElementTypeStaticText[@label='Indegene - QA']}
+2018-06-15 12:13:26 FATAL BaseClass_Web:57 - Unable to validate validateAccountsScreen_TC4An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 786b54db-47da-425b-b4c0-43f214f10bca
+*** Element info: {Using=xpath, value=//XCUIElementTypeButton[@label='Back']}
+2018-06-15 12:13:29 FATAL BaseClass_Web:78 - Unable to validate validateCalendarScreen_TC5An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 786b54db-47da-425b-b4c0-43f214f10bca
+*** Element info: {Using=xpath, value=//XCUIElementTypeButton[@label='Back']}
+2018-06-15 12:13:32 FATAL BaseClass_Web:96 - Unable to validate validateContactScreen_TC6An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 786b54db-47da-425b-b4c0-43f214f10bca
+*** Element info: {Using=xpath, value=//XCUIElementTypeButton[@label='Back']}
+2018-06-15 12:13:35 FATAL BaseClass_Web:117 - Unable to validate validatePresentationScreen_TC7An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 786b54db-47da-425b-b4c0-43f214f10bca
+*** Element info: {Using=xpath, value=//XCUIElementTypeButton[@label='Back']}
+2018-06-15 12:13:38 FATAL BaseClass_Web:138 - Unable to validate Settings Contact ScreenAn element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 786b54db-47da-425b-b4c0-43f214f10bca
+*** Element info: {Using=xpath, value=//XCUIElementTypeButton[@label='Back']}
+2018-06-15 12:13:41 FATAL BaseClass_Web:54 - Unable to validate validateContactScreenTabs_TC10An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 786b54db-47da-425b-b4c0-43f214f10bca
+*** Element info: {Using=xpath, value=//XCUIElementTypeButton[@label='Back']}
+2018-06-15 12:13:44 FATAL BaseClass_Web:76 - Unable to validate validateContactScreen_TC11An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 786b54db-47da-425b-b4c0-43f214f10bca
+*** Element info: {Using=xpath, value=//XCUIElementTypeStaticText[@label='Title']}
+2018-06-15 12:14:26 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-15 12:14:29 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-15 12:14:32 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-15 12:14:35 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-15 12:14:56 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-15 12:15:20 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-15 12:15:36 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-15 12:15:41 FATAL BaseClass_Web:42 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-15 12:15:47 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-15 12:15:53 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-15 12:18:31 FATAL BaseClass_Web:? - Unable to validate validateAccountsScreen_TC4An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 11457ebd-4bc5-403d-8bd1-db77edf89d34
+*** Element info: {Using=xpath, value=//XCUIElementTypeButton[@label='Back']}
+2018-06-19 11:28:46 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-19 11:28:49 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-19 11:28:51 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-19 11:28:54 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-19 11:29:15 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-19 11:29:31 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-19 11:29:43 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-19 11:29:48 FATAL BaseClass_Web:42 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-19 11:29:53 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-19 11:29:57 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-19 12:01:06 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-19 12:01:09 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-19 12:01:11 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-19 12:01:14 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-19 12:01:33 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-19 12:01:49 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-19 12:02:00 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-19 12:02:05 FATAL BaseClass_Web:42 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-19 12:02:12 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-19 12:02:16 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-19 12:07:33 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-19 12:07:38 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-19 12:07:41 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-19 12:07:44 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-19 12:08:01 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-19 12:08:23 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-19 12:08:35 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-19 12:08:40 FATAL BaseClass_Web:42 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-19 12:08:45 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-19 12:08:51 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-19 12:22:38 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-19 12:22:41 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-19 12:22:43 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-19 12:22:46 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-19 12:23:04 INFO  BaseClass_Web:197 - Entered the value :qauser3@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-19 12:23:20 INFO  BaseClass_Web:197 - Entered the value :Indegene@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-19 12:23:32 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-19 12:23:37 FATAL BaseClass_Web:45 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-19 12:23:41 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-19 12:23:45 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-19 12:25:08 FATAL BaseClass_Web:59 - Unable to validate validateAccountsScreen_TC4An unknown error has occurred
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {browserName: , bundleId: com.indegene.cystine, databaseEnabled: false, deviceName: Ipad air, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: MAC, platformVersion: 11.2.2, simpleIsVisibleCheck: false, takesScreenshot: true, udid: 5e37a5abe0335711d9cb1f96795..., webStorageEnabled: false}
+Session ID: 1b5135da-a9b9-40b1-ade1-1108b65e75ad
+*** Element info: {Using=xpath, value=(//XCUIElementTypeButton)[1]}
+2018-06-19 12:31:17 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-19 12:31:20 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-19 12:31:23 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-19 12:31:25 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-19 12:32:03 INFO  BaseClass_Web:197 - Entered the value :qauser3@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-19 12:32:21 INFO  BaseClass_Web:197 - Entered the value :Indegene@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-19 12:32:36 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-19 14:30:02 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-19 15:20:43 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-19 15:22:58 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-19 15:32:16 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-19 16:11:57 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-19 16:16:56 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-19 16:27:24 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-19 16:29:25 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-19 16:56:48 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-19 18:02:03 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-19 18:04:28 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-19 18:04:31 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-19 18:04:34 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-19 18:04:36 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-19 18:05:22 INFO  BaseClass_Web:197 - Entered the value :qauser3@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-19 18:05:38 INFO  BaseClass_Web:197 - Entered the value :Indegene@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-19 18:05:50 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-19 18:05:56 FATAL BaseClass_Web:45 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-19 18:06:14 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-19 18:06:20 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-22 14:43:18 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-22 14:43:21 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-22 14:43:24 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-22 14:43:26 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-22 14:43:46 INFO  BaseClass_Web:197 - Entered the value :qauser3@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-22 14:44:10 INFO  BaseClass_Web:197 - Entered the value :Indegene@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-22 14:44:23 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-22 14:44:28 FATAL BaseClass_Web:45 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-22 14:44:47 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-22 14:44:52 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-25 18:32:10 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-25 18:32:12 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-25 18:32:15 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-25 18:32:18 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-25 18:32:42 INFO  BaseClass_Web:197 - Entered the value :qauser3@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-25 18:32:59 INFO  BaseClass_Web:197 - Entered the value :Indegene@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-25 18:33:11 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-25 18:33:17 FATAL BaseClass_Web:45 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-25 18:33:33 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-25 18:33:38 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-26 11:36:19 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-26 11:37:38 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-26 11:37:40 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-26 11:37:43 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-26 11:37:46 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-26 11:38:06 INFO  BaseClass_Web:197 - Entered the value :qauser3@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-26 11:38:25 INFO  BaseClass_Web:197 - Entered the value :Indegene@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-26 11:38:37 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-26 11:38:42 FATAL BaseClass_Web:45 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-26 11:38:46 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-26 11:38:50 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-26 11:40:14 FATAL BaseClass_Web:59 - Unable to validate validateAccountsScreen_TC4Returned value cannot be converted to WebElement: {error=no such element, message=An element could not be located on the page using the given search parameters., stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at XCUITestDriver.callee$0$0$ (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/lib/commands/find.js:130:13)
+    at tryCatch (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:136:37)
+    at <anonymous>}
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: IOSDriver
+2018-06-26 11:49:38 FATAL BaseClass_Web:27 - Unable to open the URLnull
+2018-06-26 11:51:22 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-26 11:51:26 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-26 11:51:29 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-26 11:51:32 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-26 11:51:55 INFO  BaseClass_Web:197 - Entered the value :qauser3@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-26 11:52:18 INFO  BaseClass_Web:197 - Entered the value :Indegene@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-26 11:52:31 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-26 11:52:37 FATAL BaseClass_Web:45 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-26 11:55:05 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-26 11:55:08 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-26 11:55:11 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-26 11:55:15 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-26 11:55:36 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-26 11:55:59 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-26 11:56:13 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-26 11:56:18 FATAL BaseClass_Web:45 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-26 11:56:23 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-26 11:56:27 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-26 11:56:55 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-26 11:57:01 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Accounts']
+2018-06-26 11:57:10 INFO  BaseClass_Web:298 - Element is available :Accounts Header
+2018-06-26 11:57:16 INFO  BaseClass_Web:298 - Element is available :Search Field In Account Screen
+2018-06-26 11:57:22 INFO  BaseClass_Web:298 - Element is available :Back Button
+2018-06-26 11:57:29 INFO  BaseClass_Web:298 - Element is available :Nothing Selected Text
+2018-06-26 11:57:37 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-26 11:57:40 FATAL BaseClass_Web:80 - Unable to validate validateCalendarScreen_TC5Connection refused (Connection refused)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: IOSDriver
+2018-06-27 12:19:07 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-27 12:19:10 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-27 12:19:12 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-27 12:19:15 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-27 12:19:34 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-27 12:19:54 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-27 12:20:05 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-27 12:20:10 FATAL BaseClass_Web:45 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-27 12:20:15 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-27 12:20:19 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-27 12:20:51 FATAL BaseClass_Web:59 - Unable to validate validateAccountsScreen_TC4null
+2018-06-27 12:21:41 FATAL BaseClass_Web:80 - Unable to validate validateCalendarScreen_TC5Returned value cannot be converted to WebElement: {error=no such element, message=An element could not be located on the page using the given search parameters., stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at XCUITestDriver.callee$0$0$ (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/lib/commands/find.js:130:13)
+    at tryCatch (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:136:37)
+    at <anonymous>}
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: IOSDriver
+2018-06-27 12:23:18 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-27 12:23:21 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-27 12:23:24 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-27 12:23:27 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-27 12:23:46 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-27 12:24:06 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-27 12:24:18 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-27 12:24:23 FATAL BaseClass_Web:45 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-27 12:24:27 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-27 12:24:31 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-27 12:24:57 FATAL BaseClass_Web:59 - Unable to validate validateAccountsScreen_TC4null
+2018-06-27 12:26:48 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-27 12:26:51 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-27 12:26:54 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-27 12:26:57 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-27 12:27:16 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-27 12:27:36 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-27 12:27:48 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-27 12:27:53 FATAL BaseClass_Web:45 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-27 12:27:57 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-27 12:28:01 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-27 12:28:08 FATAL BaseClass_Web:59 - Unable to validate validateAccountsScreen_TC4java.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: IOSDriver
+2018-06-27 12:28:45 FATAL BaseClass_Web:80 - Unable to validate validateCalendarScreen_TC5Returned value cannot be converted to WebElement: {error=no such element, message=An element could not be located on the page using the given search parameters., stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at XCUITestDriver.callee$0$0$ (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/lib/commands/find.js:130:13)
+    at tryCatch (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:136:37)
+    at <anonymous>}
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: IOSDriver
+2018-06-27 12:29:36 FATAL BaseClass_Web:98 - Unable to validate validateContactScreen_TC6Returned value cannot be converted to WebElement: {error=no such element, message=An element could not be located on the page using the given search parameters., stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at XCUITestDriver.callee$0$0$ (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/lib/commands/find.js:130:13)
+    at tryCatch (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:136:37)
+    at <anonymous>}
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: IOSDriver
+2018-06-27 12:30:32 FATAL BaseClass_Web:119 - Unable to validate validatePresentationScreen_TC7Returned value cannot be converted to WebElement: {error=no such element, message=An element could not be located on the page using the given search parameters., stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at XCUITestDriver.callee$0$0$ (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/lib/commands/find.js:130:13)
+    at tryCatch (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:136:37)
+    at <anonymous>}
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: IOSDriver
+2018-06-27 12:31:45 INFO  BaseClass_Web:298 - Element is available :Username
+2018-06-27 12:31:48 INFO  BaseClass_Web:298 - Element is available :Password
+2018-06-27 12:31:51 INFO  BaseClass_Web:298 - Element is available :Login
+2018-06-27 12:31:54 INFO  BaseClass_Web:298 - Element is available :ForgotPassword
+2018-06-27 12:32:13 INFO  BaseClass_Web:197 - Entered the value :qauser6@omnipresence.io in the field :By.xpath: //XCUIElementTypeTextField
+2018-06-27 12:32:33 INFO  BaseClass_Web:197 - Entered the value :automation@123 in the field :By.xpath: //XCUIElementTypeSecureTextField
+2018-06-27 12:32:45 INFO  BaseClass_Web:207 - Clicked on the enter key
+2018-06-27 12:32:51 FATAL BaseClass_Web:45 - Unable to open the URLjava.net.SocketException: Connection reset
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: RemoteWebDriver
+2018-06-27 12:32:55 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Indegene - QA']
+2018-06-27 12:32:59 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Continue']
+2018-06-27 12:34:44 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-27 12:34:50 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Accounts']
+2018-06-27 12:34:56 INFO  BaseClass_Web:298 - Element is available :Accounts Header
+2018-06-27 12:35:02 INFO  BaseClass_Web:298 - Element is available :Search Field In Account Screen
+2018-06-27 12:35:08 INFO  BaseClass_Web:298 - Element is available :Back Button
+2018-06-27 12:35:13 INFO  BaseClass_Web:298 - Element is available :Nothing Selected Text
+2018-06-27 12:35:20 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-27 12:36:20 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-27 12:36:25 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Calendar']
+2018-06-27 12:36:30 FATAL BaseClass_Web:80 - Unable to validate validateCalendarScreen_TC5Returned value cannot be converted to WebElement: {error=no such element, message=An element could not be located on the page using the given search parameters., stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at XCUITestDriver.callee$0$0$ (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/lib/commands/find.js:130:13)
+    at tryCatch (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:136:37)
+    at <anonymous>}
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: IOSDriver
+2018-06-27 12:36:38 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-27 12:37:37 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-27 12:37:42 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Contacts']
+2018-06-27 12:38:11 INFO  BaseClass_Web:298 - Element is available :Search Field In Contacts Screen
+2018-06-27 12:38:17 INFO  BaseClass_Web:298 - Element is available :Back Button
+2018-06-27 12:38:22 INFO  BaseClass_Web:298 - Element is available :Nothing Contact Button
+2018-06-27 12:38:28 INFO  BaseClass_Web:298 - Element is available :nothing Selected Text
+2018-06-27 12:38:35 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-27 12:39:34 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-27 12:39:39 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Presentations']
+2018-06-27 12:39:45 INFO  BaseClass_Web:298 - Element is available :Search Field In Presentations Screen
+2018-06-27 12:39:50 INFO  BaseClass_Web:298 - Element is available :Back Button
+2018-06-27 12:39:54 INFO  BaseClass_Web:298 - Element is available :Select Presentation Button
+2018-06-27 12:39:59 INFO  BaseClass_Web:298 - Element is available :nothing Selected Text
+2018-06-27 12:40:03 INFO  BaseClass_Web:298 - Element is available :Title Presentation 
+2018-06-27 12:40:08 INFO  BaseClass_Web:298 - Element is available :DropDown in presentations
+2018-06-27 12:40:12 INFO  BaseClass_Web:298 - Element is available :Change View Button
+2018-06-27 12:40:18 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-27 12:41:17 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-27 12:41:20 FATAL BaseClass_Web:140 - Unable to validate Settings Contact ScreenReturned value cannot be converted to WebElement: {error=no such element, message=An element could not be located on the page using the given search parameters., stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at XCUITestDriver.callee$0$0$ (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/lib/commands/find.js:130:13)
+    at tryCatch (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (/Applications/Appium.app/Contents/Resources/app/node_modules/appium-xcuitest-driver/node_modules/babel-runtime/regenerator/runtime.js:136:37)
+    at <anonymous>}
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'admins-mac-mini.cignitiglobal.com', ip: '10.99.99.39', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '10.0.1'
+Driver info: driver.version: IOSDriver
+2018-06-27 12:41:26 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeButton[@label='Back']
+2018-06-27 12:42:25 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: (//XCUIElementTypeButton)[1]
+2018-06-27 12:42:30 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Contacts']
+2018-06-27 12:43:00 INFO  BaseClass_Web:185 - Clicked on the field :By.xpath: //XCUIElementTypeStaticText[@label='Nageswara Kella']
+2018-06-27 12:43:19 INFO  BaseClass_Web:298 - Element is available :Info tab In Contacts Screen
+2018-06-27 12:43:38 INFO  BaseClass_Web:298 - Element is available :Profile tab In Contacts Screen
+2018-06-27 12:43:57 INFO  BaseClass_Web:298 - Element is available :TimeLine Tab In Contacts Screen
+2018-06-27 12:44:16 INFO  BaseClass_Web:298 - Element is available :Consents Tab In Contacts Screen
+2018-06-27 12:44:36 INFO  BaseClass_Web:298 - Element is available :Title Field In Contacts Screen
+2018-06-27 12:44:55 INFO  BaseClass_Web:298 - Element is available :firstName In Contacts Screen
+2018-06-27 12:45:14 INFO  BaseClass_Web:298 - Element is available :lastname In Contacts Screen
+2018-06-27 12:45:33 INFO  BaseClass_Web:298 - Element is available :primaryEmail In Contacts Screen
+2018-06-27 12:45:52 INFO  BaseClass_Web:298 - Element is available :otherEmail In Contacts Screen
+2018-06-27 12:46:12 INFO  BaseClass_Web:298 - Element is available :businessPhone In Contacts Screen
+2018-06-27 12:46:31 INFO  BaseClass_Web:298 - Element is available :mobilePhone In Contacts Screen
+2018-06-27 12:46:50 INFO  BaseClass_Web:298 - Element is available :preferredLanguage In Contacts Screen
+2018-06-27 12:47:09 INFO  BaseClass_Web:298 - Element is available :primarySpeciality In Contacts Screen
+2018-06-27 12:47:28 INFO  BaseClass_Web:298 - Element is available :speaker In Contacts Screen
+2018-06-27 12:47:47 INFO  BaseClass_Web:298 - Element is available :kolContact In Contacts Screen
+2018-06-27 12:48:06 INFO  BaseClass_Web:298 - Element is available :addresses In Contacts Screen
+2018-07-03 11:42:26 FATAL BaseClass_Web:313 - Element is not available :null
+2018-07-03 11:42:26 FATAL BaseClass_Web:313 - Element is not available :null
+2018-07-03 11:42:26 FATAL BaseClass_Web:313 - Element is not available :null
+2018-07-03 11:42:26 FATAL BaseClass_Web:313 - Element is not available :null
+2018-07-03 11:42:27 FATAL BaseClass_Web:27 - Unable to open the URLnull

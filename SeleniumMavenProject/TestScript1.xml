@@ -1,0 +1,12 @@
+<suite name="Suite">
+<listeners>
+<listener class-name="com.mobileUtilities_Android.Listener_Android"></listener>
+</listeners>
+    <test name="Test">
+        <parameter name="browserName" value="chrome"></parameter>
+        <classes>
+           <parameter name="TestcaseNo" value="1"></parameter>   
+            <class name="com.testScripts.IndegeneTestScripts1" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
